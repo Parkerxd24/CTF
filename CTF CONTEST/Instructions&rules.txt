@@ -1,0 +1,65 @@
+Hello and welcome!
+
+We’re excited to have you here for PK’s very first Capture the Flag (CTF) cybersecurity event.
+Whether you're an experienced competitor or just getting started in the field, this event is for you.
+The goal is simple: Win.
+
+Only engage with the provided challenges and platforms.
+
+Attacking the event infrastructure or other teams is strictly prohibited.
+
+This is a learning-focused, ethical hacking environment—let’s keep it that way.
+
+2. 
+You may participate solo or in teams of up to 2 people.
+
+Collaboration within teams is encouraged—but sharing solutions across teams is not allowed.
+
+
+Flags follow the format: CTF{Flag_phrase} unless otherwise specified.
+
+Submit flags exactly as you find them—case-sensitive, no spaces.
+
+The scoreboard updates in real-time based on correct submissions.
+
+4. No Cheating
+Brute-forcing, flag-sharing between teams, or using solutions from other CTFs is not allowed.
+
+All code, write-ups, and solutions must be your own.
+
+Harassment, discrimination, or disruptive behavior will result in disqualification.
+
+6.
+We’re here to support you! Use the event’s official support channel for any questions, technical issues, or clarifications.
+
+
+7. Post-Event Sharing
+Please wait until after the event ends before posting write-ups or walkthroughs.
+
+Sharing knowledge is awesome—just give everyone a fair shot first.
+
+ Recognition & Rewards
+(Lifetime Key to Vortex dll)
+Or (100$ USD)
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                       Instructions!
+
+1. The first file will be an encrypted word, the word is 8 letters. Instructions below on how to decrypt it.
+
+This will be one of the hardest points in this contest, this will take a while.
+To decrypt this you will need to go through every line and find the word. It has 8 letters. Goodluck! (AI Not ALLOWED)
+The word starts with S.
+
+Once you get through decrypting all of that, you need to put the numbers with NO hyphens into the box and go to the file link provided.
+Once doing that you will be instructed to find the password for the folder in the file link.
+
+To get the password for the file link, you must break down the riddle and find the number, once you found the number
+you must find the txt file with the list of 200 passwords and you have to count until you get to the number.
+use that password into the file folder, and follow the instuctions in there.
+\
+
+
+
+
+
